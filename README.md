@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on (No idea's yet...)
 - 📫 How to reach me: A.Guermat@hotmail.com (business) or Aelguermat@hotmail.com (private)
-- ⚡ Fun fact: I am thinking of learning some new languages, particulary modern arabic and spanish.
-
+- ⚡ Fun fact: I am thinking of learning some new languages, particulary modern arabic.
 <!---
 Anass-G/Anass-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
