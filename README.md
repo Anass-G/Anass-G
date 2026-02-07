@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anass-G
 - 👀 I’m interested in Computer Science. I also like Math & Physics. Generally speaking, I like problem solving, reading and stimulating my creativity.
-- 😄 I am a keen learner and I enjoy living up my life as well as accumulating new positive experiences. 
+- 😄 I am a keen learner and I enjoy accumulating new positive experiences. 
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on (No idea's yet...)
 - 📫 How to reach me: A.Guermat@hotmail.com (business) or Aelguermat@hotmail.com (private)
