@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anass-G
-- 👀 I’m interested in Computer Science. I also like Math. Generally speaking, I like problem solving, reading and stimulating my creativity.
+- 👀 I’m interested in Computer Science and I also like Math. Generally speaking, I like problem solving, reading and stimulating my creativity.
 - 😄 I am a keen learner and I enjoy accumulating new positive experiences. 
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on (No idea's yet...)
